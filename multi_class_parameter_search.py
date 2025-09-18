@@ -36,7 +36,7 @@ learning_rate = 0.001
 # print(f"**** {N} {win_width} {slide} ****")
 # train_model_multi_class(N, win_width, slide, train_split, batch_size, num_epochs, learning_rate)
 
-## N search: N = number of bins to use as input
+# N search: N = number of bins to use as input
 N = 32
 win_width=2048
 slide=512
